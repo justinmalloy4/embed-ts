@@ -1,4 +1,7 @@
-[data-testid="pinboard-header"]{ display:none;}
+<style>
+data-testid="pinboard-header"
+{ display:none;}
+</style>
 
 /*root variables*/
 
