@@ -821,5 +821,8 @@ rd-tab-header-item for data tab
 }
 
 /*hide liveboard header
-[data-testid="pinboard-header"]
-  { display:none;}
+
+[data-testid="pinboard-header"]. { 
+  display:none;
+}
+
