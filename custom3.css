@@ -1,5 +1,7 @@
 
-
+.ribbon-item{
+  display:none;
+}
 /*root variables*/
 
 :root {
